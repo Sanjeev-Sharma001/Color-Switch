@@ -11,7 +11,6 @@ Frontend is developed using JavaFX and the working and backend part uses Java la
 Dependencies
 The game is implemented using Java and JavaFX.
 
-Home P
 
-![project1](images/project1.png)
+![](Images/project1.png)
 
