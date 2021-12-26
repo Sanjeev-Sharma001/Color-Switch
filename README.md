@@ -1,2 +1,14 @@
 # ColorGame
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Created by: Deva Karthik and Sanjeev
+
+Color Switch is a Rolling based game. The objective of the app is to play through 2 different players player-1 and player-2, by pressing the button for both players alternatively.
+The Player who reaches the high score first wins the game.
+
+Made to develop the idea of using oops concepts of java in the field of game development. 
+
+Frontend is developed using JavaFX and the working and backend part uses Java language.
+ 
+Dependencies
+The game is implemented using Java and JavaFX.
+
+JavaFX
