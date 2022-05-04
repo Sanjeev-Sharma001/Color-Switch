@@ -8,7 +8,7 @@ Made to develop the idea of using oops concepts of java in the field of game dev
 
 Frontend is developed using JavaFX and the working and backend part uses Java language.
  
-Dependencies
+Dependencies : 
 The game is implemented using Java and JavaFX.
 
 
